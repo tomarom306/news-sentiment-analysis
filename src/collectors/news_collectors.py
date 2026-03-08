@@ -1,12 +1,11 @@
 from newsapi import NewsApiClient
 from datetime import datetime, timedelta
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+
 from src.utils.config import Config
 from src.utils.logger import get_logger
-__all__ = [
-    'Config',
-    'get_logger'
-]
-
 logger = get_logger(__name__)
 
 class NewsCollector:
