@@ -338,37 +338,6 @@ NEGATIVE_THRESHOLD=-0.05   # Below this = negative
 
 ---
 
-## 🎓 Skills Demonstrated
-
-### Data Engineering
-- ✅ ETL pipeline design and implementation
-- ✅ API integration with rate limiting
-- ✅ NoSQL database design (MongoDB)
-- ✅ Data quality validation
-- ✅ Pipeline orchestration
-
-### Data Science / NLP
-- ✅ Natural Language Processing
-- ✅ Sentiment analysis (VADER, TextBlob)
-- ✅ Text preprocessing and cleaning
-- ✅ Feature extraction (keywords)
-- ✅ Model evaluation
-
-### Software Engineering
-- ✅ Clean, modular code architecture
-- ✅ Docker containerization
-- ✅ Configuration management
-- ✅ Error handling and logging
-- ✅ Testing and validation
-
-### Visualization
-- ✅ Interactive dashboards (Streamlit)
-- ✅ Time series visualization
-- ✅ Real-time data updates
-- ✅ User interface design
-
----
-
 ## 🐛 Troubleshooting
 
 ### MongoDB Connection Issues
